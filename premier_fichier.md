@@ -1,1 +1,2 @@
-J'�cris dans le script pour la premi�re fois.
+J'écris dans le script pour la première fois.
+J'écris dans le script pour la première fois (depuis GitHub).
