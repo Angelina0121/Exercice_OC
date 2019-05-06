@@ -1,2 +1,3 @@
 Voici un deuxieme fichier.
-A d�faut de savoir coder, modifions quelque peu ce script.
+A défaut de savoir coder, modifions quelque peu ce script.
+Ces informations peuvent également être ajoutées depuis GitHub.
